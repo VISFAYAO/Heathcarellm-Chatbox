@@ -41,7 +41,7 @@ The goal of this MVP is to build a helpful, empathetic chatbot that:
 ## 🛠️ Tech Stack
 
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
-- OpenAI ChatGPT API (or optional Ollama/LLM local models)
+- Ollama/LLM local models
 - Node.js, npm
 - Markdown, PDF, TXT as RAG source formats
 
