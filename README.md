@@ -52,7 +52,8 @@ The goal of this MVP is to build a helpful, empathetic chatbot that:
 3. Configure your **LLM provider** (OpenAI API key or local Ollama model)
 4. Upload documents in `knowledge_base/` and `prompt/` folders to AnythingLLM
 5. Test using provided scenario:  
-   > *"I’ve been feeling down for a few weeks — how can I tell if it’s depression?"*
+   > *Question 1: "I’ve been feeling down for a few weeks—how can I tell if it’s depression?"
+   > *Question 2: "What can I do at home to start feeling better?"*
 
 ## 🧷 Ethics & Boundaries
 
